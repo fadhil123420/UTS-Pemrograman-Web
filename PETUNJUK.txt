@@ -1,0 +1,11 @@
+PETUNJUK INSTALASI — MEDICAL INVENTORY SYSTEM UMPKU
+
+1. Ekstrak folder medical_inventory_umpku_final ke C:\xampp\htdocs\
+2. Jalankan Apache dan MySQL di XAMPP.
+3. Buka http://localhost/phpmyadmin
+4. Import file database.sql.
+5. Buka http://localhost/medical_inventory_umpku_final/
+6. Klik Daftar sekarang untuk membuat akun.
+7. Login dan mulai mengelola inventaris.
+
+Jika nama database atau password MySQL berbeda, sesuaikan config.php.
